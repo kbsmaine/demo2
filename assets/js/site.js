@@ -1,9 +1,9 @@
 const CONFIG = {
   company: 'KBS Commercial Demolition',
-  phoneDisplay: '(207) 555-0124',
-  phoneHref: 'tel:+12075550124',
-  email: 'estimating@yourkbsdomain.com',
-  quoteEndpoint: '' // Paste a Formspree endpoint or FormSubmit AJAX endpoint here to receive quote submissions.
+  phoneDisplay: '(207) 590-3771',
+  phoneHref: 'tel:+12075903771',
+  email: 'kbsdemo@gmail.com',
+  quoteEndpoint: 'https://formspree.io/f/xlgkqwpb' // Paste a Formspree endpoint or FormSubmit AJAX endpoint here to receive quote submissions.
 };
 
 document.addEventListener('DOMContentLoaded', () => {
